@@ -1,4 +1,4 @@
-function icecreamParlor(m, cost) {
+function iceCreamParlor(m, cost) {
   const array = [];
 
   for (let i = 0; i < cost.length - 1; i++) {
